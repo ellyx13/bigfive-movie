@@ -6,3 +6,7 @@
 .page {
     background-image: url('../images/background.png');
 }
+
+.card-login {
+    height: 800px;
+}
